@@ -1,3 +1,3 @@
 # Counter | Счетчик
 
-[Жми сюда](https://counter-jyda.vercel.app/)
+[Жми сюда](https://counter1-zeta.vercel.app/)
