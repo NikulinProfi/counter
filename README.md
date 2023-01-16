@@ -1,3 +1,3 @@
 # Counter | Счетчик
 
-[Жми сюда]()
+[Жми сюда](https://counter-zeta-eight.vercel.app/)
